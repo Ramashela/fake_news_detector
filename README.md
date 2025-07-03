@@ -1,2 +1,5 @@
-# fake_news_detector
-Fake news detector demo app using Gradio
+# Fake News Detector
+
+This is a simple fake news detector demo app built using Gradio and Hugging Face Transformers.
+
+## How to run
